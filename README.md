@@ -1,11 +1,5 @@
 # 🚀 NASA Space Apps Challenge — Exploring the Universe Through Innovation
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white](https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0B3D91?style=for-the-badge\&logo=nasa\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Domain-Space%20Science-111827?style=for-the-badge](https://img.shields.io/badge/Domain-Space%20Science-111827?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Focus-Astronomy%20%7C%20AI%20%7C%20Exoplanets-6D28D9?style=for-the-badge](https://img.shields.io/badge/Focus-Astronomy%20%7C%20AI%20%7C%20Exoplanets-6D28D9?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Innovation-Scientific%20Discovery-059669?style=for-the-badge](https://img.shields.io/badge/Innovation-Scientific%20Discovery-059669?style=for-the-badge)" /> \</p>
-
-\<p align="center">   \<b>Turning Space Data into Scientific Discovery.\</b>\<br/>   Exploring galaxies, uncovering distant worlds, and transforming astronomical data into meaningful insights. \</p>
-
 ---
-
 ## 🌌 Project Overview
 
 **NASA Space Apps Challenge** is an ambitious space-science and technology project inspired by the global NASA Space Apps Challenge.
