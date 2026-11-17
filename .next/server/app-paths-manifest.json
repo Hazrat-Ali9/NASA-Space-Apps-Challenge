@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/api/exoplanets/route": "app/api/exoplanets/route.js",
+  "/about/page": "app/about/page.js"
+}
